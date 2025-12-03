@@ -1,0 +1,16 @@
+Analyzing TestMobileApp0312...                                  
+
+warning - Unused import: 'package:flutter/material.dart' - lib\core\router\app_router.dart:1:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_theme.dart:34:42 - deprecated_member_use
+warning - Unused import: 'package:go_router/go_router.dart' - lib\features\dashboard\presentation\dashboard_screen.dart:2:8 - unused_import
+warning - Unused import: '../../../core/theme/app_colors.dart' - lib\features\dashboard\presentation\dashboard_screen.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\home_tab.dart:60:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\home_tab.dart:117:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\home_tab.dart:145:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\home_tab.dart:152:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\statistics_screen.dart:102:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\statistics_screen.dart:132:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\dashboard\presentation\statistics_screen.dart:158:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sleep_schedule\presentation\sleep_schedule_screen.dart:67:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sleep_schedule\presentation\sleep_schedule_screen.dart:115:58 - deprecated_member_use
+
