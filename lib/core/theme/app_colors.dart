@@ -21,6 +21,10 @@ class AppColors {
   static const Color warning = Color(0xFFF59E0B);
   static const Color error = Color(0xFFEF4444);
   static const Color info = Color(0xFF3B82F6);
+
+  // Text Colors
+  static const Color textLight = Color(0xFF0F172A); // Slate 900 - Dark text for light background
+  static const Color textDark = Colors.white; // Light text for dark background
   
   // Gradients - Sky Blue theme
   static const LinearGradient primaryGradient = LinearGradient(
